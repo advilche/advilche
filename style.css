@@ -490,6 +490,11 @@ h1 > span {
   grid-column: 1 / span 2;
 }
 
+.contact__form button[type="submit"]:hover {
+  color: var(--accent); 
+  transition: background 0.2s;
+}
+
 .projects__item {
   grid-column: 1 / span 2;
 }
@@ -682,6 +687,7 @@ h1 > span {
   display: flex;
   justify-content: flex-end;
 }
+
 
 .contact__control button {
   background-color: transparent;
