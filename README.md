@@ -2,7 +2,7 @@
 
 A modern, responsive personal portfolio website showcasing Adrian Vilchez's skills, projects, and professional experience as a full-stack developer.
 
-## 🚀 Features
+## Features
 
 - **Responsive Design**: Mobile-first approach with tablet and desktop breakpoints
 - **Modern UI/UX**: Clean, professional design with smooth animations and transitions
@@ -12,7 +12,7 @@ A modern, responsive personal portfolio website showcasing Adrian Vilchez's skil
 - **Social Links**: Integration with GitHub and LinkedIn profiles
 - **Accessibility**: Proper ARIA labels and semantic HTML structure
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 advilche/
@@ -28,7 +28,7 @@ advilche/
 └── README.md              # This file
 ```
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - **HTML5** - Semantic markup and accessibility
@@ -43,7 +43,7 @@ advilche/
 - **Smooth Transitions** - 250ms ease-in-out animations
 - **Visual Feedback** - Form validation states and hover effects
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Modern web browser with CSS Grid and Flexbox support
@@ -75,13 +75,13 @@ php -S localhost:8000
 
 Visit `http://localhost:8000` to see the portfolio!
 
-## 📱 Responsive Breakpoints
+## Responsive Breakpoints
 
 - **Mobile**: Default (up to 37.5em / 600px)
 - **Tablet**: 37.5em and above (600px+)
 - **Desktop**: 62.5em and above (1000px+)
 
-## 🎨 Design System
+## Design System
 
 ### Color Palette
 ```css
@@ -104,7 +104,7 @@ Visit `http://localhost:8000` to see the portfolio!
 - **Grid System**: CSS Grid for project layouts
 - **Flexbox**: Navigation and component alignment
 
-## 📋 Project Sections
+## Project Sections
 
 ### 1. Hero Section
 - Professional profile photo (responsive images)
@@ -133,7 +133,7 @@ Visit `http://localhost:8000` to see the portfolio!
 - Form submission via Web3Forms API
 - Professional contact information
 
-## 🔧 Customization
+## Customization
 
 ### Updating Profile Information
 Edit the following sections in `index.html`:
@@ -158,7 +158,7 @@ Modify CSS custom properties in `style.css`:
 3. Ensure responsive images with `<picture>` elements
 4. Add appropriate alt text and descriptions
 
-## 🚀 Deployment
+## Deployment
 
 ### GitHub Pages
 1. Push code to GitHub repository
@@ -179,14 +179,14 @@ Modify CSS custom properties in `style.css`:
 4. Output directory: `.`
 5. Deploy automatically on push
 
-## 📱 Browser Support
+## Browser Support
 
 - **Modern Browsers**: Chrome, Firefox, Safari, Edge (latest versions)
 - **CSS Features**: Grid, Flexbox, Custom Properties, Clamp()
 - **JavaScript**: ES6+ features
 - **Images**: WebP with fallback support
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -194,11 +194,11 @@ Modify CSS custom properties in `style.css`:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 👤 About the Developer
+## About the Developer
 
 **Adrian Vilchez** is a full-stack developer based in the US with experience in:
 - C/C++ and Python development
@@ -206,12 +206,10 @@ This project is open source and available under the [MIT License](LICENSE).
 - Modern frameworks (Next.js, Node.js)
 - Building responsive and accessible web applications
 
-## 📞 Contact
+## Contact
 
 - **GitHub**: [@advilche](https://github.com/advilche)
 - **LinkedIn**: [Adrian Vilchez](https://www.linkedin.com/in/adrian-vilchez1)
 - **Portfolio**: [adrian-vilchez.com](https://adrian-vilchez.com)
 
 ---
-
-*Built with ❤️ using modern web technologies* 
