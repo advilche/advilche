@@ -1,18 +1,4 @@
 # Adrian Vilchez
-## Tech Stack
-
-### Frontend
-- **HTML5** - Semantic markup and accessibility
-- **CSS3** - Custom properties, Flexbox, Grid, and responsive design
-- **Vanilla JavaScript** - Form validation and interactive elements
-- **WebP Images** - Optimized image formats for better performance
-- **Google Fonts** - Space Grotesk typography
-
-### Design & UX
-- **Mobile-First Design** - Responsive breakpoints at 37.5em and 62.5em
-- **CSS Custom Properties** - Consistent theming with CSS variables
-- **Smooth Transitions** - 250ms ease-in-out animations
-- **Visual Feedback** - Form validation states and hover effects
 
 ## About the Developer
 
@@ -29,4 +15,5 @@
 - **Portfolio**: [adrian-vilchez.com](https://adrian-vilchez.com)
 
 ---
+
 
